@@ -1,0 +1,2 @@
+# AfriHackConnect
+Hackathon project
